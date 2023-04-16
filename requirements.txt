@@ -3,4 +3,4 @@ Flask
 pymongo
 requests
 flask-ngrok
-waitress
+Flask-Waitress
