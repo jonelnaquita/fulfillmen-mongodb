@@ -2,5 +2,3 @@ responses
 Flask
 pymongo
 requests
-flask-ngrok
-Flask-Waitress
